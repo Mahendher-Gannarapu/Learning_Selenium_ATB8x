@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import java.io.File;
 
-public class S09_EdgeOptions {
+public class S09_EdgeOptions_Ex {
 
     @Test
     public void testMethod01()

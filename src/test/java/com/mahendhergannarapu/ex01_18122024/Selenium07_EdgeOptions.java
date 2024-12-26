@@ -4,7 +4,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.annotations.Test;
 
-public class Selenium07 {
+public class Selenium07_EdgeOptions {
 
     @Test
     public void testMethod01(){

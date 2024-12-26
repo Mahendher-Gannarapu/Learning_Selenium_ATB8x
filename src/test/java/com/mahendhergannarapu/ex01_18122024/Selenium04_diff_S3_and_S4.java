@@ -2,7 +2,7 @@ package com.mahendhergannarapu.ex01_18122024;
 
 import org.testng.annotations.Test;
 
-public class Selenium04 {
+public class Selenium04_diff_S3_and_S4 {
 
     @Test
     public void test_Selenium()
