@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import java.io.File;
 
-public class Selenium09 {
+public class S09_EdgeOptions {
 
     @Test
     public void testMethod01()

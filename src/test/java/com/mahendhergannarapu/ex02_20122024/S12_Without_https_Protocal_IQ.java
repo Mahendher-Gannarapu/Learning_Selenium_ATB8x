@@ -4,7 +4,7 @@ package com.mahendhergannarapu.ex02_20122024;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Selenium12 {
+public class S12_Without_https_Protocal_IQ {
 
     @Test
     public void testMethod04() throws InterruptedException {

@@ -3,7 +3,7 @@ package com.mahendhergannarapu.ex02_20122024;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Selenium10 {
+public class S10_Close_vs_Quit {
 
     @Test
     public void test_Method02() throws InterruptedException {

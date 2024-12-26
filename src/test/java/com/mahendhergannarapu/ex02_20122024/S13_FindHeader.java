@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class Selenium13_FindHeader {
+public class S13_FindHeader {
     @Test
     public void test_Method05() throws Exception
     {

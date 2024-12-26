@@ -3,7 +3,7 @@ package com.mahendhergannarapu.ex02_20122024;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 
-public class Selenium11 {
+public class S11_Navigate_to_vs_get {
 
     @Test
     public void test_Method03()
