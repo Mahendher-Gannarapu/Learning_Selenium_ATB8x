@@ -1,11 +1,9 @@
-package com.mahendhergannarapu.ex04_30122024;
+package com.mahendhergannarapu.ex04_30122024.Task_30122024;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
